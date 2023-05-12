@@ -1,0 +1,7 @@
+.container{
+    font-size: 25px;
+}
+.container__head{
+    display: flex;
+    gap: 50px;
+}
